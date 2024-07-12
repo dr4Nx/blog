@@ -1,11 +1,11 @@
 +++
-title = "Basic Markdown syntax"
+title = "Nothingness"
 template = "page.html"
 date = 2024-01-02T15:00:00Z
 [taxonomies]
-tags = ["markdown", "demo"]
+tags = []
 [extra]
-summary = "Shows how basic Markdown syntax are rendered"
+summary = "Shows how basic Markdown syntax is rendered on this website!"
 mathjax = "tex-mml"
 +++
 
