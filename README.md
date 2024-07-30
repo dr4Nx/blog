@@ -1,2 +1,3 @@
 # dr4Nx.github.io
-Personal Website
+
+Created with Zola, using the Anatole-zola theme.
