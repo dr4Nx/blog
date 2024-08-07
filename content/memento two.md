@@ -34,13 +34,24 @@ As it happened, my Linux partner was with me. We celebrated together for a brief
 
 First off, I got to miss two days of school. That's always pretty awesome. Second, I got to travel to Washington D.C., which I had never been to before, so that was also really cool. Obviously, the actual competition was at the forefront of everyone's mind, but there were other special experiences that I'll never forget:
 
-I'll never forget stressing about Cisco and gameplanning the OS with my teammates, or the boba run we had after the competition, or playing Super Smash Bros in a hotel room after that boba run. I'll never forget meeting the people, that, until the Finals, I had only known through the CyberPatriot Discord (shoutout to Matt). I'll never forget about being known as part of the team notorious for cat ears, a tradition that I don't quite know the origin of. And of course, I'll never forget the excitement of even getting to participate in this contest in the first place, and captaining one of the best teams in the nation.
+I'll never forget stressing about Cisco and gameplanning the OS with my teammates, or the boba run we had after the competition, or playing Super Smash Bros in a hotel room after that boba run, or blogging the entire trip. I'll never forget meeting the people, that, until the Finals, I had only known through the CyberPatriot Discord (shoutout to Matt). I'll never forget about being known as part of the team notorious for cat ears, a tradition that I don't quite know the origin of. And of course, I'll never forget the excitement of even getting to participate in this contest in the first place, and captaining one of the best teams in the nation.
 
 In the end, we didn't end up going on that stage and collecting a trophy. There are a few members on my team who have the opportunity to try again. No pressure. However, I'm happy with our results; we put forth our best effort, especially given that we were down a member, and I'm happy for what we've accomplished.
 
 ![image](../../images/nats1.jpeg)
 
 *Picture taken after completing the contest. I am holding the blahaj.*
+
+Other highlights:
+1. Fancy van to and from hotel. This was very nice.
+2. Having my lip bleed by the end of the trip because it was so freaking cold, even in March.
+3. Calling Abraham Lincoln a homie at his memorial.
+4. Having a picture of myself (solo) at 6 in the morning [grabbing breakfast.](https://www.flickr.com/photos/airforceassociation/53592906341/in/album-72177720315490722/)
+5. Visiting the D.C. area in general! We visited the Smithsonian, saw Congress, the Washington Memorial, the National Mall, WW2 memorial, and a lot of other cool government building and landmarks.
+6. Fire banquet at the end of the competition.
+7. Wearing cat ears!
+8. Watching teammates engage in degenerate activities (Brawl Stars)
+9. Being team captain :) and taking the competitor's oath in front of hundreds
 
 ## Tips for CyberPatriot People
 
