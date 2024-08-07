@@ -38,7 +38,7 @@ I'll never forget stressing about Cisco and gameplanning the OS with my teammate
 
 In the end, we didn't end up going on that stage and collecting a trophy. There are a few members on my team who have the opportunity to try again. No pressure. However, I'm happy with our results; we put forth our best effort, especially given that we were down a member, and I'm happy for what we've accomplished.
 
-![image](../../nats1.jpeg)
+![image](../../images/nats1.jpeg)
 
 *Picture taken after completing the contest. I am holding the blahaj.*
 
