@@ -1,6 +1,6 @@
 theme = "anatole-zola"
 title = "Evan Luo"
-description = "AI, CyberSec, and Oreo Enjoyer"
+description = "UC Berkeley student interested in machine learning, cybersecurity, and poker"
 build_search_index = false
 default_language = "en"
 # The URL the site will be built for
